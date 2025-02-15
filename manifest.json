@@ -1,6 +1,6 @@
 {
-    "name": "aen_helpdesk_mobileapp",
-    "short_name": "aen_helpdesk_mobileapp",
+    "name": "aen",
+    "short_name": "aen",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
